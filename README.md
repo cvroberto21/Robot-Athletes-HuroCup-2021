@@ -1,0 +1,1 @@
+You can access the presentation at https://cvroberto21.github.io/Robot-Athletes-HuroCup-2021/
